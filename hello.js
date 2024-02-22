@@ -4,7 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log('A new message.');
+console.log('The parentheses are correct syntax. Leaving one or both out causes an error.');
+console.log('Javascript will work with single or double quotation marks.');
+console.log("The semi-colon marks the end of the expression or block of code. Although, leaving it off won't throw an error.")
+console.log(7 + 3);
+
 
 /*  
 Next, PLAY! 
